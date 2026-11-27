@@ -5,9 +5,8 @@ after accidentally deleting the production database.
 
 ## The line
 
-> I deleted the production database. I would restore it, but I also deleted
-> the instructions, the password, and — I have just realised — this apology
-> is the only record left.
+> I deleted the production database. Then I deleted the backup, because it
+> looked lonely.
 
 ## How it works
 
